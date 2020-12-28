@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { useTodoState } from '../TodoProvider';
 
 const TodoHeadBlock = styled.header`
     padding-top: 48px;
@@ -27,6 +28,8 @@ const TodoHeadBlock = styled.header`
 `;
 
 function TodoHead(){
+    const todos = useTodoState();
+    console.log(todos);
     return (
         <TodoHeadBlock>
             <h1>2020년 12월 27일</h1>

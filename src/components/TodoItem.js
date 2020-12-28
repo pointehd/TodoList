@@ -58,7 +58,6 @@ const Text = styled.div`
         color: #ced4da;
     `}
 `;
-
 function TodoItem({id, done, text}){
     return (
         <TodoItemBlock>
