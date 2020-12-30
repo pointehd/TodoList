@@ -1,6 +1,10 @@
 # TodoList 만들기!
 
 ## 개발일기
+* 20.12.30 : 3.자바스크립트에서 비동기처리 다루기 
+> [https://learnjs.vlpt.us/async/](https://learnjs.vlpt.us/async/)
+> 해당 내용은 codesandbox 에서 작성함 
+
 * 20.12.29 : 2020년 마지막 화요일 ! 
 > 앞으로 더 열심히! 
 > 코드 너무 깔끔하다 ㅠㅠ 나도 이렇게 할수있을까!
